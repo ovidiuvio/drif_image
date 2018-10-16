@@ -26,8 +26,11 @@ typedef struct
 {
     uint32_t magic;
     uint32_t version;
+    // image width
     uint32_t w;
+    // image height
     uint32_t h;
+    // image format
     uint32_t f;
 
 } drif_footer_t;
