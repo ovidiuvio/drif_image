@@ -1,5 +1,3 @@
-#pragma once
-
 /**
 * DRIF - Developers RAW image format
 *
